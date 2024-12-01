@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "StreamingTestApp.Controllers.AudioController",
+    "Method": "GetAudio",
+    "RelativePath": "api/Audio/{filename}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filename",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

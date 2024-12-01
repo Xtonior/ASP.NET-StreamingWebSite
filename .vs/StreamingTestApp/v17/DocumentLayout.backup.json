@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA428F36-741C-4039-ADD8-349597A3513E}|StreamingTestApp\\StreamingTestApp.csproj|c:\\users\\xtonior\\source\\repos\\streamingtestapp\\streamingtestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA428F36-741C-4039-ADD8-349597A3513E}|StreamingTestApp\\StreamingTestApp.csproj|solutionrelative:streamingtestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA428F36-741C-4039-ADD8-349597A3513E}|StreamingTestApp\\StreamingTestApp.csproj|c:\\users\\xtonior\\source\\repos\\streamingtestapp\\streamingtestapp\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA428F36-741C-4039-ADD8-349597A3513E}|StreamingTestApp\\StreamingTestApp.csproj|solutionrelative:streamingtestapp\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA428F36-741C-4039-ADD8-349597A3513E}|StreamingTestApp\\StreamingTestApp.csproj|c:\\users\\xtonior\\source\\repos\\streamingtestapp\\streamingtestapp\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA428F36-741C-4039-ADD8-349597A3513E}|StreamingTestApp\\StreamingTestApp.csproj|solutionrelative:streamingtestapp\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA428F36-741C-4039-ADD8-349597A3513E}|StreamingTestApp\\StreamingTestApp.csproj|c:\\users\\xtonior\\source\\repos\\streamingtestapp\\streamingtestapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA428F36-741C-4039-ADD8-349597A3513E}|StreamingTestApp\\StreamingTestApp.csproj|solutionrelative:streamingtestapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA428F36-741C-4039-ADD8-349597A3513E}|StreamingTestApp\\StreamingTestApp.csproj|c:\\users\\xtonior\\source\\repos\\streamingtestapp\\streamingtestapp\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA428F36-741C-4039-ADD8-349597A3513E}|StreamingTestApp\\StreamingTestApp.csproj|solutionrelative:streamingtestapp\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA428F36-741C-4039-ADD8-349597A3513E}|StreamingTestApp\\StreamingTestApp.csproj|c:\\users\\xtonior\\source\\repos\\streamingtestapp\\streamingtestapp\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA428F36-741C-4039-ADD8-349597A3513E}|StreamingTestApp\\StreamingTestApp.csproj|solutionrelative:streamingtestapp\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA428F36-741C-4039-ADD8-349597A3513E}|StreamingTestApp\\StreamingTestApp.csproj|c:\\users\\xtonior\\source\\repos\\streamingtestapp\\streamingtestapp\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA428F36-741C-4039-ADD8-349597A3513E}|StreamingTestApp\\StreamingTestApp.csproj|solutionrelative:streamingtestapp\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA428F36-741C-4039-ADD8-349597A3513E}|StreamingTestApp\\StreamingTestApp.csproj|c:\\users\\xtonior\\source\\repos\\streamingtestapp\\streamingtestapp\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA428F36-741C-4039-ADD8-349597A3513E}|StreamingTestApp\\StreamingTestApp.csproj|solutionrelative:streamingtestapp\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA428F36-741C-4039-ADD8-349597A3513E}|StreamingTestApp\\StreamingTestApp.csproj|c:\\users\\xtonior\\source\\repos\\streamingtestapp\\streamingtestapp\\views\\upload\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA428F36-741C-4039-ADD8-349597A3513E}|StreamingTestApp\\StreamingTestApp.csproj|solutionrelative:streamingtestapp\\views\\upload\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA428F36-741C-4039-ADD8-349597A3513E}|StreamingTestApp\\StreamingTestApp.csproj|c:\\users\\xtonior\\source\\repos\\streamingtestapp\\streamingtestapp\\views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA428F36-741C-4039-ADD8-349597A3513E}|StreamingTestApp\\StreamingTestApp.csproj|solutionrelative:streamingtestapp\\views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\StreamingTestApp\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "StreamingTestApp\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\StreamingTestApp\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "StreamingTestApp\\Views\\User\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:37:48.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\StreamingTestApp\\Views\\Upload\\Upload.cshtml",
+              "RelativeDocumentMoniker": "StreamingTestApp\\Views\\Upload\\Upload.cshtml",
+              "ToolTip": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\StreamingTestApp\\Views\\Upload\\Upload.cshtml",
+              "RelativeToolTip": "StreamingTestApp\\Views\\Upload\\Upload.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:32:13.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\StreamingTestApp\\Views\\Upload\\Index.cshtml",
+              "RelativeDocumentMoniker": "StreamingTestApp\\Views\\Upload\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\StreamingTestApp\\Views\\Upload\\Index.cshtml",
+              "RelativeToolTip": "StreamingTestApp\\Views\\Upload\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:32:05.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\StreamingTestApp\\SeedData.cs",
+              "RelativeDocumentMoniker": "StreamingTestApp\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\StreamingTestApp\\SeedData.cs",
+              "RelativeToolTip": "StreamingTestApp\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:08:41.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\StreamingTestApp\\Program.cs",
+              "RelativeDocumentMoniker": "StreamingTestApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\StreamingTestApp\\Program.cs",
+              "RelativeToolTip": "StreamingTestApp\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwDQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:22:11.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContentController.cs",
+              "DocumentMoniker": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\StreamingTestApp\\Controllers\\ContentController.cs",
+              "RelativeDocumentMoniker": "StreamingTestApp\\Controllers\\ContentController.cs",
+              "ToolTip": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\StreamingTestApp\\Controllers\\ContentController.cs",
+              "RelativeToolTip": "StreamingTestApp\\Controllers\\ContentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:20:49.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\StreamingTestApp\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "StreamingTestApp\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\StreamingTestApp\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "StreamingTestApp\\Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:20:21.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\StreamingTestApp\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "StreamingTestApp\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\StreamingTestApp\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "StreamingTestApp\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:20:14.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\StreamingTestApp\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "StreamingTestApp\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\StreamingTestApp\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "StreamingTestApp\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:20:09.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\StreamingTestApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "StreamingTestApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Xtonior\\source\\repos\\StreamingTestApp\\StreamingTestApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "StreamingTestApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:19:54.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

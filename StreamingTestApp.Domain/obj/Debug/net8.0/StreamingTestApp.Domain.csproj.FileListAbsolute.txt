@@ -1,0 +1,14 @@
+C:\Users\Xtonior\source\repos\StreamingTestApp\StreamingTestApp.Domain\bin\Debug\net8.0\StreamingTestApp.Domain.deps.json
+C:\Users\Xtonior\source\repos\StreamingTestApp\StreamingTestApp.Domain\bin\Debug\net8.0\StreamingTestApp.Domain.dll
+C:\Users\Xtonior\source\repos\StreamingTestApp\StreamingTestApp.Domain\bin\Debug\net8.0\StreamingTestApp.Domain.pdb
+C:\Users\Xtonior\source\repos\StreamingTestApp\StreamingTestApp.Domain\obj\Debug\net8.0\StreamingTestApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Xtonior\source\repos\StreamingTestApp\StreamingTestApp.Domain\obj\Debug\net8.0\StreamingTestApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xtonior\source\repos\StreamingTestApp\StreamingTestApp.Domain\obj\Debug\net8.0\StreamingTestApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Xtonior\source\repos\StreamingTestApp\StreamingTestApp.Domain\obj\Debug\net8.0\StreamingTestApp.Domain.AssemblyInfo.cs
+C:\Users\Xtonior\source\repos\StreamingTestApp\StreamingTestApp.Domain\obj\Debug\net8.0\StreamingTestApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Xtonior\source\repos\StreamingTestApp\StreamingTestApp.Domain\obj\Debug\net8.0\StreamingTestApp.Domain.dll
+C:\Users\Xtonior\source\repos\StreamingTestApp\StreamingTestApp.Domain\obj\Debug\net8.0\refint\StreamingTestApp.Domain.dll
+C:\Users\Xtonior\source\repos\StreamingTestApp\StreamingTestApp.Domain\obj\Debug\net8.0\StreamingTestApp.Domain.pdb
+C:\Users\Xtonior\source\repos\StreamingTestApp\StreamingTestApp.Domain\obj\Debug\net8.0\ref\StreamingTestApp.Domain.dll
+C:\Users\Xtonior\source\repos\StreamingTestApp\StreamingTestApp.Domain\bin\Debug\net8.0\StreamingTestApp.Domain.runtimeconfig.json
+C:\Users\Xtonior\source\repos\StreamingTestApp\StreamingTestApp.Domain\obj\Debug\net8.0\StreamingTestApp.Domain.genruntimeconfig.cache
